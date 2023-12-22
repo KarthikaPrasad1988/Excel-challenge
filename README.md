@@ -127,5 +127,5 @@ The maximum number of backers
 
 The variance of the number of backers
 
-The standard deviation of the number of backer
+The standard deviation of the number of backers.
 
